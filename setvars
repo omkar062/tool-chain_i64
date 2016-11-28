@@ -1,0 +1,4 @@
+
+export ARCH=arm
+export CROSS_COMPILE=arm-linux-
+export PATH=$PATH:/embedded/cubie/cross-tools/usr/bin
